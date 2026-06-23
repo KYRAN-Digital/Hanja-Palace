@@ -154,8 +154,8 @@ img {
 }
 
 .hero-logo-wrap {
-  width: 230px;
-  height: 230px;
+  width: 290px;
+  height: 290px;
   margin: 10px auto 14px;
   display: flex;
   align-items: center;
@@ -165,16 +165,11 @@ img {
   box-shadow: none;
   backdrop-filter: none;
   -webkit-backdrop-filter: none;
-  transition: transform 0.4s ease;
-}
-
-.hero-logo-wrap:hover {
-  transform: rotate(3deg) scale(1.05);
 }
 
 .hero-logo {
-  width: 210px;
-  height: 210px;
+  width: 270px;
+  height: 270px;
   object-fit: contain;
 }
 
