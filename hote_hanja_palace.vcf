@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hotel Hanja Palace
+ORG:Hotel Hanja Palace
+TEL;TYPE=WORK,VOICE:+919521554073
+TEL;TYPE=CELL,VOICE;waid=919521554073:+919521554073
+URL;TYPE=Instagram:https://instagram.com/hotelhanjapalace
+URL;TYPE=Location:https://www.google.com/maps/place/Hotel+Hanja+Palace/@24.5775417,73.6900585,17z/data=!4m6!3m5!1s0x3967e54cc5a70659:0xe84a9e525167b5f1!8m2!3d24.5775417!4d73.6900585
+END:VCARD
