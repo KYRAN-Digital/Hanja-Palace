@@ -350,7 +350,7 @@ img {
 
 /* GALLERY */
 .gallery-section h2::before {
-  content: "ðŸ–¼ï¸";
+  content: "🖼️";
   font-size: 1.25rem;
 }
 
@@ -428,7 +428,7 @@ img {
 }
 
 .gallery-item::after {
-  content: 'ðŸ”';
+  content: '🔍';
   position: absolute;
   inset: 0;
   display: flex;
@@ -457,7 +457,7 @@ img {
 
 /* AMENITIES */
 .amenities h2::before {
-  content: "âœ¨";
+  content: "✨";
   font-size: 1.25rem;
 }
 
@@ -522,13 +522,13 @@ img {
 
 /* FOOD SECTION */
 .food-section h2::before {
-  content: "ðŸ½ï¸";
+  content: "🍽️";
   font-size: 1.25rem;
 }
 
 /* GUEST REVIEWS */
 .reviews-section h2::before {
-  content: "â­";
+  content: "⭐";
   font-size: 1.25rem;
 }
 
@@ -663,7 +663,7 @@ img {
 
 /* LOCATION SECTION */
 .location-section h2::before {
-  content: "ðŸ“";
+  content: "📍";
   font-size: 1.25rem;
 }
 
